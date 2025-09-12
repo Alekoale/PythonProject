@@ -3,11 +3,11 @@ import sys
 import turtle
 
 def draw_triangle():
-    turtle.forward(100)
+    turtle.forward(120)
     turtle.left(120)
-    turtle.forward(100)
+    turtle.forward(120)
     turtle.left(120)
-    turtle.forward(100)
+    turtle.forward(120)
     turtle.left(120)
 
 def main():
